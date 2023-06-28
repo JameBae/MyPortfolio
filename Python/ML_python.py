@@ -95,3 +95,5 @@ rftrain_rmse = np.sqrt(rftrain_mse)
 print(f"Test RandomForest_MAE : {rfmae}, Train RandomForest_MAE : {rftrain_mae}")
 print(f"Test RandomForest_MSE : {rfmse}, Train RandomForest_MSE : {rftrain_mse}")
 print(f"Test RandomForest_RMSE : {rfrmse}, Train RandomForest_RMSE : {rftrain_rmse}")
+
+**Model 1 (Linear)** is the best model for predicted mpg (mile per galon)
